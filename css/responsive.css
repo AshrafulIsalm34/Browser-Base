@@ -1,0 +1,49 @@
+@media (max-width: 991px) {
+    .navbar-nav {
+        margin-top: 20px;
+    }
+    .Covered_main_text {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .offset-1 {
+        margin-left: 0% !important;
+    }
+    .offset-2 {
+        margin-left: 0% !important;
+    }
+    .web_text_right {
+        top: 30px;
+        display: grid;
+        justify-content: center;
+    }
+    .web_bottom_text1 {
+        margin: 65px 0px;
+    }
+    .web_bottom_text {
+        display: grid;
+        justify-content: center;
+    }
+    .Covered_section {
+        padding: 160px 0px 160px 0px;
+    }
+    .card img {
+        position: relative;
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .card-body h5 {
+        text-align: center;
+    }
+    .document_img {
+        text-align: center;
+    }
+    .price_main_hedding {
+        text-align: center;
+    }
+    .Price_respons {
+        margin-bottom: 50px;
+    }
+}
